@@ -2,7 +2,7 @@ RA-GCN: Graph Convolutional Network for Disease Prediction Problems with Imbalan
 ====
 
 Here is the code for node classification in graphs with imbalanced classes written in Pytorch.
-Ghorbani et.al. "RA-GCN: Graph Convolutional Network for Disease Prediction Problems with Imbalanced Data" [1]
+Ghorbani et.al. "[RA-GCN: Graph Convolutional Network for Disease Prediction Problems with Imbalanced Data](https://arxiv.org/pdf/2103.00221.pdf)" [1]
 The aim of this paper is to provide an approach for dealing with graph-based imbalance datasets. The efficiency of this approach has been tested for the graph convolutional network which is introduced by Kipf et al. [2]. 
 
 ![RA-GCN overview](https://github.com/mahsa91/RA-GCN/blob/main/RA-GCN.JPG?raw=true)
