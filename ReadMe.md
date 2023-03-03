@@ -2,7 +2,7 @@
 <!-- saved from url=(0041)http://www.nkrow.ru/video-s-mk-kati-upit/ -->
 <html>
 <head>
-
+<meta name="google-site-verification" content="0gI6D09ik5hioXs_Woxg6-XM_cV9TqV8BslqaNoSqgs" />
 </head>
 </html>
   
