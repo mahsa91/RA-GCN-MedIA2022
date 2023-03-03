@@ -1,3 +1,11 @@
+<!DOCTYPE html>
+<!-- saved from url=(0041)http://www.nkrow.ru/video-s-mk-kati-upit/ -->
+<html>
+<head>
+
+</head>
+</html>
+  
 RA-GCN: Graph Convolutional Network for Disease Prediction Problems with Imbalanced Data
 ====
 
